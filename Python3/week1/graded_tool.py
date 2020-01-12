@@ -1,0 +1,1 @@
+print('Apples are juicy')
